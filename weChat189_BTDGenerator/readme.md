@@ -5,6 +5,7 @@
 网站：mwhitelab.com
 
 #### 项目说明
+
 本项目受[狗屁不通文章生成器](https://github.com/menzi11/BullshitGenerator)启发。
 项目运行环境为python3。
 
@@ -12,6 +13,7 @@
 
 
 #### 文件说明
+
 | 文件名 | 说明 |
 | --- | --- |
 | 标题党文章生成器.py | 主要程序，用python执行 |
