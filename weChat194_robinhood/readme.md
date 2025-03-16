@@ -1,7 +1,7 @@
 # AI自动回答Robinhood Trivia问答
 - 作者：皌白
 - 公众号：技术杂学铺
-- 项目编号：194
+- 项目编号：[194](https://mp.weixin.qq.com/s/zr4UNE7wg-iuqhmi4iNaCQ)
 
 **本项目的文件仅供学习交流分享和数据记录。作者不提供项目部署的帮助。**
 
