@@ -15,7 +15,7 @@
 | 5 | [毕业照合成器](https://mp.weixin.qq.com/s/vZ-f5ZoDzVwN0qGjxQbXUw) | 191 | weChat191_graduationPhoto | - |
 | 6 | [谐音梗生成器](https://mp.weixin.qq.com/s/NLqEhlMTaF1qxlDxAB2lAQ) | 192 | weChat192_memeGenerator | - |
 | 7 | [Emoji密码学](https://mp.weixin.qq.com/s/MJoZx4BqcVmDrnmjeYj-xg) | 193 | weChat193_EmojiCryptography | - |
-| 8 | [我的AI第一桶金](https://mp.weixin.qq.com/s/MJoZx4BqcVmDrnmjeYj-xg) | 194 | weChat194_robinhood | - |
+| 8 | [我的AI第一桶金](https://mp.weixin.qq.com/s/zr4UNE7wg-iuqhmi4iNaCQ) | 194 | weChat194_robinhood | - |
 
 
 #### 其他
