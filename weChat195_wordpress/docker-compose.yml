@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  db:
+    image: mysql:latest
+    restart: always
+    container_name: mysql_db
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wp_user
+      MYSQL_PASSWORD: <设定一个密码A>      # ← 这个是 wp_user 的密码
+      MYSQL_ROOT_PASSWORD: <设定一个密码B> # ← 这个是 root 用户的密码
+    volumes:
+      - db_data:/var/lib/mysql
+
+  wordpress:
+    image: wordpress:latest
+    restart: always
+    container_name: wordpress_app
+    ports:
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: wp_user
+      WORDPRESS_DB_PASSWORD: <设定一个密码A>  # ← 这里要和上面 wp_user 的密码保持一致
+    depends_on:
+      - db
+
+volumes:
+  db_data:
