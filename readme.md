@@ -16,7 +16,7 @@
 | 6 | [谐音梗生成器](https://mp.weixin.qq.com/s/NLqEhlMTaF1qxlDxAB2lAQ) | 192 | weChat192_memeGenerator |
 | 7 | [Emoji密码学](https://mp.weixin.qq.com/s/MJoZx4BqcVmDrnmjeYj-xg) | 193 | weChat193_EmojiCryptography |
 | 8 | [我的AI第一桶金](https://mp.weixin.qq.com/s/zr4UNE7wg-iuqhmi4iNaCQ) | 194 | weChat194_robinhood |
-| 9 | [教程：Wordpress网站搭建]() | 195 | weChat195_wordpress |
+| 9 | [教程：Wordpress网站搭建](https://mp.weixin.qq.com/s/lsOcdJclHaX0yg8gnm0b4g) | 195 | weChat195_wordpress |
 
 
 #### 其他
